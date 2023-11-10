@@ -3,3 +3,28 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.content_header{
+    height: 70px;
+    background-color: blue;
+}
+
+.start_bootstrap,
+.about{
+background-color:rgb(0, 230, 199) ;
+}
+.content_main{
+    height: 150px;
+    background-color: rgb(63, 42, 165);
+}
+
+.color_{
+    background-color: rgb(0, 0, 77);
+}
+
+.info{
+    background-color: rgb(76, 76, 189);
+}
+.copyright{
+    background-color: rgb(43, 43, 139);
+}

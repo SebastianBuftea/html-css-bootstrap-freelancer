@@ -125,3 +125,12 @@ h3{
   }
 
  
+  .pad_5{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+      
+  }
+  a{
+    color: aquamarine;
+  }
